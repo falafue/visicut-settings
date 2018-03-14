@@ -1,0 +1,16 @@
+<laserDevice>
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText></jobSentText>
+  <jobPrefix></jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.Dummy">
+    <fakeRunTime>-1</fakeRunTime>
+    <bedWidth>250.0</bedWidth>
+    <bedHeight>280.0</bedHeight>
+    <svgOutdir></svgOutdir>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <name>none</name>
+</laserDevice>
