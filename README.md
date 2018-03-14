@@ -1,12 +1,11 @@
 Visicut settings
 ================
 
-Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool to prepare, save and send Jobs to Lasercutters) used by Fab Lab Region Nuernberg e.V.
-
+Settings for [VisiCut](https://github.com/t-oster/VisiCut) (A userfriendly tool to prepare, save and send Jobs to Lasercutters) used by FabLab Landkreis Fürth e.V.
 Instructions
 ------------
 
-In newer versions of VisiCut you can select 'Germany, Nuremberg: Fab Lab Region Nürnberg, e.V.' from
+In newer versions of VisiCut you can select 'Germany, Veitsbronn: FabLab Landkreis Fürth e.V.' from
 ```Options -> Settings -> Download Recommended Settings ...```
 
 In older versions of VisiCut you can use the ```Download ZIP``` link, and rename the .zip extension to .vcsettings and then use the Archive with ```Options -> Settings -> Import Settings ...``` If that does not work, you have to repack the archive, so that there is no toplevel directory. 
@@ -24,7 +23,7 @@ Use the source
  * Clone the repo to .visicut:
     
     ```bash
-    git clone git@github.com:fablabnbg/visicut-settings.git .visicut
+    git clone git@github.com:falafue/visicut-settings.git .visicut
     ```
 
 
