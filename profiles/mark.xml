@@ -1,9 +1,9 @@
 <vectorProfile>
   <DPI>500.0</DPI>
-  <description>Markieren</description>
+  <description>Cut through the material</description>
   <name>mark</name>
-  <orderStrategy>NEAREST</orderStrategy>
+  <orderStrategy>INNER_FIRST</orderStrategy>
   <useOutline>false</useOutline>
   <isCut>true</isCut>
-  <width>0.2</width>
+  <width>1.0</width>
 </vectorProfile>

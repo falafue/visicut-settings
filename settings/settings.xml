@@ -8,19 +8,13 @@
   <fabqrPublicURL></fabqrPublicURL>
   <fabqrPrivateUser></fabqrPrivateUser>
   <fabqrPrivatePassword></fabqrPrivatePassword>
-  <windowBounds>
-    <x>0</x>
-    <y>1200</y>
-    <width>1139</width>
-    <height>873</height>
-  </windowBounds>
-  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
   <recentFiles/>
-  <lastMaterial>Sperrholz Birke</lastMaterial>
-  <lastLaserDevice>Thunderlaser Nova 35</lastLaserDevice>
+  <lastMaterial>Acrylic</lastMaterial>
+  <lastLaserDevice>Epilog ZING</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
   <fabLabLocationFacebookId></fabLabLocationFacebookId>
-  <laserCutterTags></laserCutterTags>
-  <supportedExtensions></supportedExtensions>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
 </visicutPreferences>

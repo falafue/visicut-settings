@@ -1,0 +1,21 @@
+<laserDevice>
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job was sent as &apos;$jobname&apos;
+Please:
+-Close the lid
+-Turn on the Ventilation
+-And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+  <jobPrefix>visicut </jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.ExportSVG">
+    <fakeRunTime>-1</fakeRunTime>
+    <bedWidth>250.0</bedWidth>
+    <bedHeight>280.0</bedHeight>
+    <svgOutdir>./test</svgOutdir>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <thumbnailPath>ExportSVG.png</thumbnailPath>
+  <name>ExportSVG</name>
+</laserDevice>

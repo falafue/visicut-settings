@@ -1,7 +1,11 @@
 <laserDevice>
   <originBottomLeft>false</originBottomLeft>
-  <jobSentText></jobSentText>
-  <jobPrefix></jobPrefix>
+  <jobSentText>Job was sent as &apos;$jobname&apos;
+Please:
+-Close the lid
+-Turn on the Ventilation
+-And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+  <jobPrefix>visicut </jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.Dummy">
     <fakeRunTime>-1</fakeRunTime>
     <bedWidth>250.0</bedWidth>
@@ -12,5 +16,6 @@
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
-  <name>none</name>
+  <thumbnailPath>Dummy.png</thumbnailPath>
+  <name>Dummy</name>
 </laserDevice>
