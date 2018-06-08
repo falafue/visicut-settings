@@ -8,10 +8,16 @@
   <fabqrPublicURL></fabqrPublicURL>
   <fabqrPrivateUser></fabqrPrivateUser>
   <fabqrPrivatePassword></fabqrPrivatePassword>
-  <useThicknessAsFocusOffset>true</useThicknessAsFocusOffset>
+  <windowBounds>
+    <x>52</x>
+    <y>25</y>
+    <width>1437</width>
+    <height>1430</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles/>
-  <lastMaterial>Acrylic</lastMaterial>
-  <lastLaserDevice>Epilog ZING</lastLaserDevice>
+  <lastMaterial>Sperrholz Birke</lastMaterial>
+  <lastLaserDevice>Thunderlaser-Nova35-falafue</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
   <fabLabLocationFacebookId></fabLabLocationFacebookId>

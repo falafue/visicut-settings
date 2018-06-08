@@ -14,16 +14,16 @@ Please:
     </ruida>
     <useBidirectionalRastering>false</useBidirectionalRastering>
     <addSpacePerRasterLine>2.0</addSpacePerRasterLine>
-    <BedWidth>0.0</BedWidth>
-    <BedHeight>0.0</BedHeight>
+    <BedWidth>900.0</BedWidth>
+    <BedHeight>600.0</BedHeight>
     <LaserPowerMin>0</LaserPowerMin>
     <LaserPowerMax>70</LaserPowerMax>
     <MaxVectorCutSpeed>1000</MaxVectorCutSpeed>
     <MaxVectorMoveSpeed>1000</MaxVectorMoveSpeed>
     <useFilename>false</useFilename>
     <filename>thunder.rd</filename>
-    <useNetwork>false</useNetwork>
-    <network__addr>192.168.1.1</network__addr>
+    <useNetwork>true</useNetwork>
+    <network__addr>192.168.2.21</network__addr>
     <useUsb>false</useUsb>
     <usb__device>/dev/ttyUSB0</usb__device>
   </laserCutter>
@@ -31,6 +31,7 @@ Please:
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
-  <thumbnailPath>Thunderlaser.png</thumbnailPath>
-  <name>Thunderlaser</name>
+  <thumbnailPath>Thunderlaser-Nova35-falafue.png</thumbnailPath>
+  <description>jw 2018-06-08</description>
+  <name>Thunderlaser-Nova35-falafue</name>
 </laserDevice>

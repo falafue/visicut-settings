@@ -6,11 +6,17 @@ Please:
 -Turn on the Ventilation
 -And press &apos;start&apos; on the Lasercutter $name</jobSentText>
   <jobPrefix>visicut </jobPrefix>
-  <laserCutter class="com.t_oster.liblasercut.drivers.SampleDriver"/>
+  <laserCutter class="com.t_oster.liblasercut.drivers.Dummy">
+    <fakeRunTime>-1</fakeRunTime>
+    <bedWidth>250.0</bedWidth>
+    <bedHeight>280.0</bedHeight>
+    <svgOutdir></svgOutdir>
+  </laserCutter>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
-  <thumbnailPath>Sample Driver.png</thumbnailPath>
-  <name>Sample Driver</name>
+  <thumbnailPath>Dummy.png</thumbnailPath>
+  <description>make image of other appear</description>
+  <name>-none-</name>
 </laserDevice>
