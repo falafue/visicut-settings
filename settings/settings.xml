@@ -9,14 +9,18 @@
   <fabqrPrivateUser></fabqrPrivateUser>
   <fabqrPrivatePassword></fabqrPrivatePassword>
   <windowBounds>
-    <x>52</x>
-    <y>25</y>
-    <width>1437</width>
-    <height>1430</height>
+    <x>0</x>
+    <y>0</y>
+    <width>1228</width>
+    <height>873</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
-  <recentFiles/>
-  <lastMaterial>Sperrholz Birke</lastMaterial>
+  <recentFiles>
+    <string>.visicut/examples/FaLaFue/logo-cut.svg</string>
+    <string>.visicut/examples/startest.svg</string>
+    <string>.visicut/examples/Basic/rectangle-20mm-green.svg</string>
+  </recentFiles>
+  <lastMaterial>Sperrholz Pappel</lastMaterial>
   <lastLaserDevice>Thunderlaser-Nova35-falafue</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>

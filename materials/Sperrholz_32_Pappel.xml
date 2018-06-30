@@ -1,0 +1,14 @@
+<material>
+  <description>2018-06-11 jw</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#fefbd5</color>
+  <name>Sperrholz Pappel</name>
+  <materialThicknesses>
+    <float>2.0</float>
+    <float>3.0</float>
+    <float>4.0</float>
+    <float>5.0</float>
+    <float>6.0</float>
+  </materialThicknesses>
+</material>
